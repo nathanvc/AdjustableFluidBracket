@@ -31,3 +31,6 @@ Nathan Vierling-Claassen,
 * Tested with 3mm ABS printed on a LulzBot Taz 4/5, 0.35 mm hexagon print head
 
 * Designed to fit outside/above to hold fluid tubes that then enter box through right side opening in a Med Associates behavior box
+
+* Also includes separate 10mL syringe holder that fits into bracket
+
